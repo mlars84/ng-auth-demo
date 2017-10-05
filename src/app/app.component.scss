@@ -1,0 +1,14 @@
+@import '~sass/variables';
+
+h1 {
+  color: $primary;
+}
+
+.header {
+  background-color: $secondary;  
+}
+
+.main {
+  background-color: $light;
+  padding: 30em;
+}
